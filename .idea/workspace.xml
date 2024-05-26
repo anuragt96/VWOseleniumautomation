@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7aa2aef6-7842-4a80-906f-167b474edf49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/14b3b920-ff73-4668-ad58-450fb835ab1e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a827f52-a332-41a9-9bce-f8ba52fa171a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1ca62a86-d14e-44a7-b632-353fbcc5973b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/21564e50-1d4a-41aa-ab34-e6b72ccf6068-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/27ce2e54-8c98-4c18-939b-30978f387c6e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3866d0b6-12e7-4321-8c90-03080f2efbb1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/40c8a307-7839-41d8-a1ba-e75f26cf264b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/44323df9-0135-4a6f-9a3e-3e6a41544a79-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/549142a5-b4d5-4ae2-97c2-704f57c4ce90-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5a846937-013b-4b8b-b6b6-d336d5e533fe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/60b7161a-d902-4b88-bcc3-18cf4e5c6615-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/691138b7-bbd9-495a-818a-debfa1b1ff08-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/730d3907-5631-449f-80b6-9a030c17d79c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/749018e5-76c5-47d6-a200-8a4791b262ff-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7d2a6035-f6d2-4aa7-ad89-c4aef2d98135-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7ddc0b1c-6950-483e-8201-6262f080240f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/81e67902-fa69-46dd-8913-04426fe40fdb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/87944a10-1156-42ad-a1d8-3fad1d32e3d1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9537d24e-9271-4ddc-bf05-b224cf2b8741-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a9b6dc4c-8c6a-42b5-8917-912c979784b6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b3d9440a-8c08-42c3-945c-77ec56df837a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bf931647-a912-44dd-a3a3-b92cc37654d1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d06b2bc9-a2f9-46f3-8f29-e2abc3a19bc6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d363155a-9d60-4c67-8929-fa9458e1644b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d8e34203-7593-4f78-9d09-772c72df2235-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e4b02786-66e1-485f-a98b-cd3b4f8b98cd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ea67a397-ceaf-44a9-b6e7-21376e723583-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TestLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2gh54VYWmeMeMXj1H1lIwpRnoLi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestLogin.testValidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="VWOSeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestLogin" />
+      <option name="METHOD_NAME" value="testValidLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestLogin.testValidLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa2aef6-7842-4a80-906f-167b474edf49" name="Changes" comment="" />
+      <created>1716136779887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716136779887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
